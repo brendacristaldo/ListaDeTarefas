@@ -7,6 +7,8 @@
 ### Descrição
 Aplicação web simples para gerenciar uma lista de tarefas. A interface permite adicionar novas tarefas, excluir tarefas individualmente, excluir todas as tarefas e marcar tarefas como concluídas.
 
+### Link de acesso:
+https://brendacristaldo.github.io/ListaDeTarefas/
 
 ### Integrantes
 <ul>
